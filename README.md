@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Prateek
-- 👀 I’m interested in Data Science and ML
-- 🧑🏻‍💻 I'm currently working on getting set up  
+🔭 I’m currently working on building data products that solve problems in real estate investment
+💬 Ask me about Data Science and Cars
+🌱 I’m currently learning Econometrics
+⚡ Fun fact: I can speak about 2 sentences of Fluent Spanish and can sing a full Song
 
 <!---
 prateek-bricklane/prateek-bricklane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
