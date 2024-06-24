@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prateek  
+👋 Hi, I’m Prateek  
 🔭 I’m currently working on building data products that solve problems in real estate investment  
 💬 Ask me about Data Science and Cars  
 🌱 I’m currently learning Econometrics  
