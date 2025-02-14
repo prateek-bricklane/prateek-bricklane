@@ -1,7 +1,7 @@
 👋 Hi, I’m Prateek  
 🔭 I’m currently working on building data products that solve problems in real estate investment  
 💬 Ask me about Data Science and Cars  
-🌱 I’m currently learning Econometrics  
+🌱 I’m currently learning Stats  
 ⚡ Fun fact: I can speak about 2 sentences of Fluent Spanish and can singa full Song  
 
 <!---
